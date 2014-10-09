@@ -31,3 +31,8 @@ Outcome 2.3 Assessment - Project for Client
       - Testing
       - Reports/Eval
       - Due Date
+
+========================    
+
+    Links to use while coding:
+        - http://prose.io/ | It's a web-based interface for managing content on GitHub.
