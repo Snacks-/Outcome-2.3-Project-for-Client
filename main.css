@@ -299,19 +299,21 @@ a.button {
       background-color: #fbfbfb; }
 
 .links-to-floor {
-  position: absolute;
-  bottom: 0;
-  right: 20px;
-  z-index: 20;
-  width: 240px;
-  height: 80px; }
+	position: absolute;
+	z-index: 20;
+	width: 240px;
+	height: 80px;
+	right: 7%;
+	bottom: 0%
+}
   .links-to-floor li {
     position: absolute;
     width: 60px;
     height: 40px;
     padding: 3px;
     line-height: 40px; }
-    .links-to-floor li span {
+    
+	.links-to-floor li span {
 	width: 66%;
 	height: 100%;
 	display: block;
@@ -328,38 +330,20 @@ a.button {
       top: 0;
       left: 0; }
     .links-to-floor li.ascensorLink1 {
-      top: 0%;
+      top: 50%;
       left: 16.6666666667%; }
     .links-to-floor li.ascensorLink2 {
       top: 0%;
-      left: 33.3333333333%; }
+      left: 16.6666666667%; }
     .links-to-floor li.ascensorLink3 {
-      top: 0%;
-      left: 50%; }
+	  top: 0%;
+	  left: 33.3333333333%; }
     .links-to-floor li.ascensorLink4 {
       top: 0%;
-      left: 66.6666666667%; }
+      left: 50%; }
     .links-to-floor li.ascensorLink5 {
       top: 0%;
-      left: 83.3333333333%; }
+      left: 66.6666666667%; }
     .links-to-floor li.ascensorLink6 {
       top: 0%;
-      left: 100%; }
-
-/* Marketing bullshit */
-.social-button {
-  position: fixed;
-  z-index: 40;
-  top: 20px;
-  max-width: 120px;
-  left: 20px; }
-
-.social-button iframe, .social-button .paypalButton {
-  margin-bottom: 6px; }
-
-@media screen and (min-width: 0px) and (max-width: 720px) {
-  .social-button, .links-to-floor {
-    display: none; }
-
-  .container {
-    padding-top: 20px; } }
+      left: 83.3333333333%; }
