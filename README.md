@@ -37,3 +37,5 @@ Outcome 2.3 Assessment - Project for Client
     Links to use while coding:
         - http://prose.io/ | It's a web-based interface for managing content on GitHub.
         - http://jqueryui.com/easing/ | Javascript Preset Animations for 'easing'.
+        - http://tympanus.net/Development/CreativeLinkEffects/#cl-effect-1 | Awesome Hover Link Effects
+        - http://tympanus.net/Tutorials/CaptionHoverEffects/index.html | Caption Hover Effects
